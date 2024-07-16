@@ -1,0 +1,37 @@
+# JupyterLab関連のパッケージ（いくつかの拡張機能を含む）
+black
+jupyterlab
+jupyterlab-language-pack-ja-JP
+jupyterlab_code_formatter
+jupyterlab-git
+lckr-jupyterlab-variableinspector
+jupyterlab_widgets
+ipywidgets
+import-ipynb
+
+
+# 基本パッケージ
+numpy
+pandas
+scipy
+scikit-learn
+pycaret
+matplotlib
+japanize-matplotlib
+mlxtend
+seaborn
+plotly
+requests
+beautifulsoup4
+Pillow
+opencv-python
+
+
+# 追加パッケージ
+pydeps
+graphviz
+ydata-profiling
+shap
+umap
+xgboost
+lightgbm
