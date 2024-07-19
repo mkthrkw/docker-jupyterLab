@@ -10,7 +10,7 @@ WORKDIR ${WORKDIR}
 
 #パッケージインストール
 RUN apt-get update && \
-    apt-get -y install gcc git
+    apt-get -y install gcc git zip
 
 #requirements.txtからパッケージインストール
 COPY requirements.txt "${WORKDIR}/"

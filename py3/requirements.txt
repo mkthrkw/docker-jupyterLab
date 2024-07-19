@@ -1,13 +1,16 @@
 # JupyterLab関連のパッケージ（いくつかの拡張機能を含む）
-black
 jupyterlab
 jupyterlab-language-pack-ja-JP
+black
+isort
 jupyterlab_code_formatter
 jupyterlab-git
 lckr-jupyterlab-variableinspector
 jupyterlab_widgets
 ipywidgets
 import-ipynb
+jupyterlab-lsp
+python-lsp-server[all]
 
 
 # 基本パッケージ
